@@ -33,7 +33,7 @@ The objective of this project is to process and analyze multi-season transaction
          [ Multi-Panel Plot Outputs ]                  [ Statistical Tests & ARIMA ]
 
 ```
-Execution Feasibility & System Requirements
+## Execution Feasibility & System Requirements
 
 * **Runtime Environment:** Python 3.10+
 * **Core Libraries:** `pandas`, `numpy`, `scipy`, `statsmodels`, `matplotlib`, `seaborn`
